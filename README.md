@@ -3,6 +3,7 @@ Overview
 
 The Credit Card Financial Dashboard project aims to streamline the analysis of credit card usage, transaction trends, customer segments, and more. This Power BI dashboard serves as a comprehensive tool to monitor and track financial metrics, which are critical for identifying trends, managing risks, and optimizing credit offerings.
 
+
 Features
 
 Comprehensive Metrics: Visualizations cover KPIs related to customer spending, credit limits, and financial performance.
@@ -12,6 +13,8 @@ Data Segmentation: Insights can be filtered by various segments, such as custome
 Interactive Visualizations: Dynamic visuals for trend analysis, helping stakeholders to identify and act upon key financial patterns.
 
 Customizable Views: Easily modify and tailor dashboard views to specific needs.
+
+
 
 Data Sources
 
@@ -28,6 +31,8 @@ Monthly Spend
 Transaction Date
 
 Category
+
+
 
 Usage
 
